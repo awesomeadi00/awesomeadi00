@@ -16,8 +16,9 @@
 
   <div style="flex: 1; min-width: 300px;">
     <p align="left">
-      🎓 <strong>B.Sc. Computer Science, NYU Abu Dhabi</strong> – Summa Cum Laude<br><br>
-      💡 <strong>Interests</strong>:
+      🎓 <strong>B.Sc. Computer Science, NYU Abu Dhabi</strong>
+      <br><br>
+      💡 <strong>My Interests:</strong>
       <ul>
         <li>Machine Learning</li>
         <li>Deep Learning</li>
@@ -25,7 +26,7 @@
         <li>Software Engineering</li>
         <li>Game Development</li>
       </ul>
-      🔧 <strong>I build:</strong>
+      🔧 <strong>I build:</strong><br>
       <ul>
         <li>🧠 LLM-powered applications (LangChain, OpenAI, etc.)</li>
         <li>🛠️ Full-stack systems using modern web frameworks</li>
@@ -33,6 +34,7 @@
       </ul>
       💬 Let’s talk about <strong>creative tech, applied AI, or your next cool idea.</strong>
     </p>
+
   </div>
 
   <div style="flex: 1; text-align: center; min-width: 200px;">
