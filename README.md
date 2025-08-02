@@ -61,7 +61,7 @@
   <code><img title="PyPi" height="25" src="images/pypi.svg"></code>
   <code><img title="Jira" height="25" src="images/jira.svg"></code>
   <code><img title="Confluence" height="25" src="images/confluence.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="FastAPI" height="25" src="images/fastapi.svg"></code>
 </p>
 <hr>
