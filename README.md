@@ -12,32 +12,30 @@
 </h5>
 <br>
 
-<table>
-  <tr>
-    <td>
+---
 
-🎓 **B.Sc. Computer Science, NYU Abu Dhabi – _Summa Cum Laude_**
+### 🎓 B.Sc. Computer Science, NYU Abu Dhabi – *Summa Cum Laude*
 
-💡 **My Interests:**
-- Machine Learning  
-- Deep Learning  
-- Data Science  
-- Software Engineering  
-- Game Development  
 
-🔧 **I build:**
-- 🧠 LLM-powered applications (LangChain, OpenAI, etc.)  
-- 🛠️ Full-stack systems using modern web frameworks  
-- 🧪 Experimental MLOps and deep learning pipelines  
+### 💡 My Interests:
+- 🧠 Machine/Deep Learning    
+- 📊 Data Science  
+- 🧑‍💻 Software Engineering  
+- 🎮 Game Development  
 
+### 🔧 I build:
+- 🤖 LLM-powered applications (LangChain, OpenAI, etc.)  
+- 🌐 Full-stack systems using modern web frameworks  
+- 🔬 Experimental MLOps and deep learning pipelines  
+
+<br>
 💬 Let’s talk about **creative tech, applied AI, or your next cool idea.**
 
-</td>
-    <td align="center">
-      <img src="images/orb.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+<!-- <p align="center">
+  <img src="images/orb.gif" width="400" alt="Orb Animation"/>
+</p>
+
+--- -->
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
