@@ -12,36 +12,32 @@
 </h5>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<table>
+  <tr>
+    <td>
 
-  <div style="flex: 1; min-width: 300px;">
-    <p align="left">
-      🎓 <strong>B.Sc. Computer Science, NYU Abu Dhabi</strong>
-      <br><br>
-      💡 <strong>My Interests:</strong>
-      <ul>
-        <li>Machine Learning</li>
-        <li>Deep Learning</li>
-        <li>Data Science</li>
-        <li>Software Engineering</li>
-        <li>Game Development</li>
-      </ul>
-      🔧 <strong>I build:</strong><br>
-      <ul>
-        <li>🧠 LLM-powered applications (LangChain, OpenAI, etc.)</li>
-        <li>🛠️ Full-stack systems using modern web frameworks</li>
-        <li>🧪 Experimental MLOps and deep learning pipelines</li>
-      </ul>
-      💬 Let’s talk about <strong>creative tech, applied AI, or your next cool idea.</strong>
-    </p>
+🎓 **B.Sc. Computer Science, NYU Abu Dhabi – _Summa Cum Laude_**
 
-  </div>
+💡 **My Interests:**
+- Machine Learning  
+- Deep Learning  
+- Data Science  
+- Software Engineering  
+- Game Development  
 
-  <div style="flex: 1; text-align: center; min-width: 200px;">
-    <img src="images/orb.gif" alt="Orb animation" width="250" />
-  </div>
+🔧 **I build:**
+- 🧠 LLM-powered applications (LangChain, OpenAI, etc.)  
+- 🛠️ Full-stack systems using modern web frameworks  
+- 🧪 Experimental MLOps and deep learning pipelines  
 
-</div>
+💬 Let’s talk about **creative tech, applied AI, or your next cool idea.**
+
+</td>
+    <td align="center">
+      <img src="images/orb.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
