@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-<h5 align="center">
+<h3 align="center">
   <code><a href="https://www.linkedin.com/in/aditya-pandhare-7b86a8261/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.adityapandhare.com/" title="Portfolio Website"><img width="22" src="images/portfolio.png"> Website</a></code>
   <code><a href="mailto:adityapandhare44@gmail.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
   <code><a href="https://github.com/awesomeadi00" title="GitHub"><img width="22" src="images/github.svg"> GitHub</a></code>
-</h5>
-<br>
+</h3>
+
 
 ---
 
@@ -28,17 +28,12 @@
 - 🌐 Full-stack systems using modern web frameworks  
 - 🔬 Experimental MLOps and deep learning pipelines  
 
-<br>
+
 💬 Let’s talk about **creative tech, applied AI, or your next cool idea.**
 
-<!-- <p align="center">
-  <img src="images/orb.gif" width="400" alt="Orb Animation"/>
-</p>
+---
+# <center>🔥 **Languages & Frameworks & Tools** 🔥</center>
 
---- -->
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
