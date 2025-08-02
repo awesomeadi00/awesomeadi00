@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71D61&center=true&width=435&lines=Hi!++I'm+Aditya+Pandhare!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=93F1F7FF&center=true&width=435&lines=Hi!++I'm+Aditya+Pandhare!;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,25 +12,34 @@
 </h5>
 <br>
 
-<p align="left">
-  🎓 B.Sc. Computer Science, NYU Abu Dhabi – <strong>Summa Cum Laude</strong><br><br>
-  💡 <strong>Interests</strong>: 
-    <ul>
-      <li>Machine Learning</li>
-      <li>Deep Learning</li>
-      <li>Data Science</li>
-      <li>Software Engineering</li>
-      <li>Game Development</li>
-    </ul>
-    <br>
-  🔧 <strong>I build:</strong>
-  <ul>
-    <li>🧠 LLM-powered applications (LangChain, OpenAI, etc.)</li>
-    <li>🛠️ Full-stack systems using modern web frameworks</li>
-    <li>🧪 Experimental MLOps and deep learning pipelines</li>
-  </ul>
-  💬 Let’s talk about <strong>creative tech, applied AI, or your next cool idea.</strong>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <p align="left">
+      🎓 <strong>B.Sc. Computer Science, NYU Abu Dhabi</strong> – Summa Cum Laude<br><br>
+      💡 <strong>Interests</strong>:
+      <ul>
+        <li>Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>Data Science</li>
+        <li>Software Engineering</li>
+        <li>Game Development</li>
+      </ul>
+      🔧 <strong>I build:</strong>
+      <ul>
+        <li>🧠 LLM-powered applications (LangChain, OpenAI, etc.)</li>
+        <li>🛠️ Full-stack systems using modern web frameworks</li>
+        <li>🧪 Experimental MLOps and deep learning pipelines</li>
+      </ul>
+      💬 Let’s talk about <strong>creative tech, applied AI, or your next cool idea.</strong>
+    </p>
+  </div>
+
+  <div style="flex: 1; text-align: center; min-width: 200px;">
+    <img src="images/orb.gif" alt="Orb animation" width="250" />
+  </div>
+
+</div>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
