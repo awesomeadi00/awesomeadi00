@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=93F1F7FF&center=true&width=435&lines=Hi!++I'm+Aditya+Pandhare!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=F71D61FF&center=true&width=435&lines=Hi!++I'm+Aditya+Pandhare!;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -32,7 +32,8 @@
 💬 Let’s talk about **creative tech, applied AI, or your next cool idea.**
 
 ---
-# <center>🔥 **Languages & Frameworks & Tools** 🔥</center>
+<h2 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=3000&color=F71D61&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%F0%9F%94%A5" alt="Typing SVG" /></a></h2>
 
 <br>
 <p align="center">
