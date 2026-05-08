@@ -14,7 +14,7 @@
 
 ---
 
-### 🎓 B.Sc. Computer Science, NYU Abu Dhabi – *Summa Cum Laude*
+### 🎓 B.Sc. Computer Science, NYU Abu Dhabi
 
 
 ### 💡 My Interests:
