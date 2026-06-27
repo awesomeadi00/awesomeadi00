@@ -24,9 +24,9 @@
 - 🎮 Game Development  
 
 ### 🔧 I build:
-- 🤖 LLM-powered applications (LangChain, OpenAI, etc.)  
-- 🌐 Full-stack systems using modern web frameworks  
-- 🔬 Experimental MLOps and deep learning pipelines  
+- 🤖 LLM-powered applications
+- 🌐 Full-stack systems  
+- 🔬 MLOps and deep learning pipelines  
 
 
 💬 Let’s talk about **creative tech, applied AI, or some cool ideas!**
